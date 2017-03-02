@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="559px" height="417px" viewBox="0 0 559 417" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>cat</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-572.000000, -281.000000)">
+            <rect id="Rectangle-3" fill="#00BCD4" x="-1" y="95" width="1144" height="251"></rect>
+            <rect id="Rectangle-3-Copy" fill="#00BCD4" transform="translate(457.785955, 381.988723) rotate(-351.000000) translate(-457.785955, -381.988723) " x="-274.702778" y="170.988723" width="1464.97747" height="422"></rect>
+            <g id="cat" opacity="0.398320896" transform="translate(572.000000, 281.000000)" fill-rule="nonzero" fill="#FFFFFF">
+                <g id="Page-1">
+                    <g>
+                        <g id="cat">
+                            <ellipse id="eye" cx="238.077922" cy="211.098311" rx="44.0649351" ry="73.5610634"></ellipse>
+                            <ellipse id="Oval-2" cx="241.467532" cy="223.10828" rx="38.4155844" ry="58.5486015"></ellipse>
+                            <ellipse id="Oval-3" cx="229.038961" cy="193.083356" rx="16.9480519" ry="22.5186929"></ellipse>
+                            <ellipse id="eye" cx="366.883117" cy="208.095818" rx="44.0649351" ry="73.5610634"></ellipse>
+                            <ellipse id="Oval-3" cx="357.844156" cy="190.080864" rx="16.9480519" ry="22.5186929"></ellipse>
+                            <ellipse id="Oval-3" stroke="#FFFFFF" stroke-width="3" cx="192.883117" cy="334.200498" rx="37.2857143" ry="49.5411243"></ellipse>
+                            <g id="Group-2">
+                                <ellipse id="head" cx="279.118005" cy="229.68618" rx="252.118005" ry="187.189364"></ellipse>
+                                <path d="M556.461367,0 C500.229376,0 385,75.5535196 385,75.5535196 L512.443481,183.923533 C512.443481,183.923533 571.408753,48.0910176 556.461367,0 Z" id="Path-2"></path>
+                                <path d="M2.84217094e-14,0 C56.2319924,0 171.461368,75.5535196 171.461368,75.5535196 L44.0178854,183.923533" id="Path-2"></path>
+                            </g>
+                            <path d="M308.12987,359.721684 C284.402597,359.721684 284.402597,296.669344 284.402597,296.669344 L331.857143,296.669344 C331.857143,296.669344 331.857143,359.721684 308.12987,359.721684 Z" id="Triangle"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
